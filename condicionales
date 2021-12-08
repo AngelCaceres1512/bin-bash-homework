@@ -1,0 +1,8 @@
+#!/bin/bash
+variables=1;
+if [ $variable -eq 1 ]
+then 
+     echo "UNO"
+else 
+     echo "OTRO NUMERO"
+fi
